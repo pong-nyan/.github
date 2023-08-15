@@ -1,5 +1,8 @@
 site_name: My Docs
 
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
 theme:
   name: material
   language: ko
