@@ -2,5 +2,9 @@
     "conventionalCommits.scopes": [
         "todo",
         "retrospect"
-    ]
+    ],
+    "editor.tabSize": 4,
+    "editor.indentSize": "tabSize",
+    "editor.insertSpaces": true,
+    "markdown.extension.list.indentationSize": "inherit",
 }
